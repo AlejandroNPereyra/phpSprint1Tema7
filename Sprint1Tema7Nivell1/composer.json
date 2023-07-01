@@ -1,0 +1,16 @@
+{
+    "name": "alejandro/sprint1tema7nivell1",
+    "description": "Tests",
+    "autoload": {
+        "psr-4": {
+            "Alejandro\\Sprint1tema7nivell1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlejandroNPereyra",
+            "email": "pereyra_alejandro@yahoo.com.ar"
+        }
+    ],
+    "require": {}
+}
