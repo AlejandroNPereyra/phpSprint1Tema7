@@ -6,11 +6,9 @@ per certificar que el codi font de la classe fa el que ha de fer.*/
 
 namespace Sprint1Tema7\Sprint1Tema7Nivell1;
 
-use PHPUnit\Framework\TestCase;
-
 require_once 'NumberChecker.php';
 
-class NumberCheckerTest extends TestCase {
+class NumberCheckerTest extends PHPUnit_Framework_TestCase {
     
     public function testIsEven () {
 
